@@ -1,0 +1,7 @@
+{
+  "name": "SonicStudio AI",
+  "description": "A professional AI-powered audio enhancement suite for studio-quality voice and podcast production.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
